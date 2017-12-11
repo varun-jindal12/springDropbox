@@ -1,0 +1,5 @@
+<html>
+<body>
+<img src="http:localhost:3000/image/delta.jpg">
+</body>
+</html>
